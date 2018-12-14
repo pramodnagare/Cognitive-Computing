@@ -8,3 +8,6 @@ https://objectdetectiontut.herokuapp.com/
 ![enter image description here](https://cdn-images-1.medium.com/max/800/1*efAXhtg1Xe4oDCkaG0e0Xg.png)
 
 ![enter image description here](https://cdn-images-1.medium.com/max/800/1*m5GTvwTouNu0DvG7Wa2CRA.jpeg)
+
+# Flask Application for Object Detection can be found in this link :
+[AWS EC2 FLASK APPLICATION](http://ec2-35-172-117-209.compute-1.amazonaws.com/)
