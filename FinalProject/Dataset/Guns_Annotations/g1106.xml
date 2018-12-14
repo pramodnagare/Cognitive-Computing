@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized_gun</folder>
+	<filename>g1106.jpg</filename>
+	<path>/home/dharani/Desktop/resized_gun/g1106.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>12</ymin>
+			<xmax>200</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,22 @@
+<!doctype html>
+
+<html>
+
+	<body>
+		<h1>Knife and Gun Object Detection</h1>
+		<div id = a , style="margin-top:45px;">
+			<form action = "/" method = "POST"
+			enctype = "multipart/form-data">
+				<input type = "file" name = "file" accept="image/*" onchange="loadFile(event)"/>
+				<input type = "submit"/>
+				<center><img id="output" align = middle STYLE="TOP:260px;WIDTH:350px; HEIGHT:350px"/></center>
+				<script>
+				var loadFile = function(event) {
+				var output = document.getElementById('output');
+				output.src = URL.createObjectURL(event.target.files[0]);
+				};
+				</script>
+			</form>
+		</div>
+	</body>
+</html>
